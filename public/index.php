@@ -1,11 +1,1 @@
-<?php
-
-/**
- * @author juanvladimir13 <juanvladimir13@gmail.com>
- * @see https://github.com/juanvladimir13
- */
-
-require '../vendor/autoload.php';
-
-$config = require '../.env.php';
-echo $config['username'];
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><meta name="viewport" content="width=device-width"><meta name="generator" content="Astro v4.3.0"><title>Astro</title></head> <body> <h1>Astro</h1> </body></html>
